@@ -1,8 +1,8 @@
-# WizNomad: Travel Calculator — Terms of Use
+# WizNomad: Travel Toolkit — Terms of Use
 
 **Effective date:** 3 November 2026
 
-These terms apply to your use of WizNomad: Travel Calculator ("WizNomad", "the app"), made by **bitwigblazer**, the developer of WizNomad on Google Play ("we", "us"). By using the app you agree to them. If you don't agree, please don't use the app.
+These terms apply to your use of WizNomad: Travel Toolkit ("WizNomad", "the app"), made by **bitwigblazer**, the developer of WizNomad on Google Play ("we", "us"). By using the app you agree to them. If you don't agree, please don't use the app.
 
 ## 1. The app
 

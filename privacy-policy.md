@@ -1,8 +1,8 @@
-# WizNomad: Travel Calculator — Privacy Policy
+# WizNomad: Travel Toolkit — Privacy Policy
 
 **Effective date:** 3 November 2026
 
-This policy explains what information WizNomad: Travel Calculator ("WizNomad", "the app") uses, why, who receives it and the choices you have. WizNomad is made by **bitwigblazer**, the developer of WizNomad on Google Play ("we", "us"). We are the controller of the information described here, except where Google acts as an independent controller (see *Advertising*).
+This policy explains what information WizNomad: Travel Toolkit ("WizNomad", "the app") uses, why, who receives it and the choices you have. WizNomad is made by **bitwigblazer**, the developer of WizNomad on Google Play ("we", "us"). We are the controller of the information described here, except where Google acts as an independent controller (see *Advertising*).
 
 WizNomad is used around the world. We follow the strictest of the rules that apply to it, including the EU and UK General Data Protection Regulation (GDPR), the California Consumer Privacy Act (CCPA/CPRA) and other US state privacy laws, Brazil's LGPD, Canada's PIPEDA, Japan's APPI, Singapore's PDPA, Australia's Privacy Act, South Korea's PIPA and India's DPDP Act. Where a law gives you more rights than this policy describes, you have those rights.
 

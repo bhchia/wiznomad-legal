@@ -1,4 +1,4 @@
-# WizNomad: Travel Calculator
+# WizNomad: Travel Toolkit
 
 - [Privacy Policy](privacy-policy)
 - [Terms of Use](terms-of-use)
