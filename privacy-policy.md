@@ -22,7 +22,7 @@ This information is **not sent to us**. It is deleted when you clear the app's d
 
 ## 2. Exchange rates
 
-To show current rates, the app downloads a public list of rates from **ExchangeRate-API** (exchangerate-api.com) about once a day. Like any internet request, this tells their server your device's IP address and basic technical details (for example, that the request came from an app). No information you typed is sent. See ExchangeRate-API's privacy policy: https://www.exchangerate-api.com/privacy
+To show current rates, the app downloads a public list of rates from **ExchangeRate-API** (exchangerate-api.com) about once a day. Like any internet request, this tells their server your device's IP address and basic technical details (for example, that the request came from an app). No information you typed is sent. See ExchangeRate-API's privacy policy: <https://www.exchangerate-api.com/privacy>
 
 ## 3. Advertising (Google AdMob)
 
@@ -41,7 +41,7 @@ Google uses this to show ads, measure them, limit how often you see the same ad,
 - **US states with privacy laws (such as California):** you can opt out of the "sale" or "sharing" of personal information for targeted advertising through the message the app shows.
 - **Changing your choice:** wherever the app asks, you can change or withdraw your choice at any time: open the app's menu (⋮ at the top of the screen) and tap **Privacy options**. Everywhere, you can reset or delete your advertising ID in your phone's settings (Settings → Privacy → Ads, or Settings → Google → Ads).
 
-For this processing, Google is an independent controller. See how Google uses information from apps that use its services: https://policies.google.com/technologies/partner-sites and Google's Privacy Policy: https://policies.google.com/privacy
+For this processing, Google is an independent controller. See how Google uses information from apps that use its services: <https://policies.google.com/technologies/partner-sites> and Google's Privacy Policy: <https://policies.google.com/privacy>
 
 **Legal basis (GDPR):** your consent for storing or reading information on your device and for personalised ads; our legitimate interest in funding a free app for non-personalised ads where the law allows it.
 
@@ -49,7 +49,7 @@ For this processing, Google is an independent controller. See how Google uses in
 
 If the app crashes, **Firebase Crashlytics** (a Google service) sends us a crash report: the error and where in the code it happened, device model, operating system version, app version, the time, and a random installation identifier (not your name or advertising ID). We use crash reports only to find and fix bugs. Crash reports are kept for 90 days. We don't use Google Analytics.
 
-**Legal basis (GDPR):** our legitimate interest in keeping the app working. See Firebase's privacy information: https://firebase.google.com/support/privacy
+**Legal basis (GDPR):** our legitimate interest in keeping the app working. See Firebase's privacy information: <https://firebase.google.com/support/privacy>
 
 ## 5. Who receives information
 
