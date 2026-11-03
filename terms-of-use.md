@@ -6,7 +6,7 @@ These terms apply to your use of WizNomad: Travel Toolkit ("WizNomad", "the app"
 
 ## 1. The app
 
-WizNomad is a free app for travellers: a currency converter, tip and bill splitter, calculator, unit and size converters and time zones. It is supported by ads. We may change, add or remove features at any time.
+WizNomad is a free app for travellers: a currency converter, tip and bill splitter, calculator, unit and size converters and time zones. It is supported by ads (early test versions have none). We may change, add or remove features at any time.
 
 ## 2. Results are guides, not guarantees
 
@@ -26,7 +26,7 @@ You may use the app for your own personal, non-commercial use. Please don't copy
 
 ## 4. Ads and third-party services
 
-The app shows ads from Google AdMob and uses third-party services described in our [Privacy Policy](https://bhchia.github.io/wiznomad-legal/privacy-policy). Ads and the sites they link to belong to their advertisers; we are not responsible for them. Your use of Google Play is governed by Google's terms.
+Versions of the app with ads show ads from Google AdMob. The app uses third-party services described in our [Privacy Policy](https://bhchia.github.io/wiznomad-legal/privacy-policy). Ads and the sites they link to belong to their advertisers; we are not responsible for them. Your use of Google Play is governed by Google's terms.
 
 ## 5. Ownership and credits
 

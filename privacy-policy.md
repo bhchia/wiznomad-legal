@@ -10,7 +10,7 @@ WizNomad is used around the world. We follow the strictest of the rules that app
 
 - **No account, no sign-in.** We don't ask for your name, email, phone number, contacts, photos or precise location.
 - **What you type stays on your phone.** Amounts, currencies, bills, cities and settings are saved only on your device.
-- **Ads** are shown by Google AdMob. Where the law requires it, you are asked for consent first, and you can change your choice at any time in the app.
+- **Ads**, in versions of the app that show them, come from Google AdMob (early test versions have none). Where the law requires it, you are asked for consent first, and you can change your choice at any time in the app.
 - **Crash reports** help us fix bugs. They contain technical details about the crash, not what you typed.
 - We **don't sell** your personal information for money, and we have no servers of our own that store it.
 
@@ -26,7 +26,7 @@ To show current rates, the app downloads a public list of rates from **ExchangeR
 
 ## 3. Advertising (Google AdMob)
 
-The app is free and is paid for by ads from **Google AdMob**. The Google Mobile Ads SDK in the app collects and sends to Google:
+The app is free and is paid for by ads from **Google AdMob**. Versions without ads (such as early test versions) don't include Google's ad software and send nothing to it. In versions with ads, the Google Mobile Ads SDK collects and sends to Google:
 
 - your device's **advertising ID** and app set ID;
 - your **IP address**, which may be used to estimate your general location (country or city, not precise location);
